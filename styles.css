@@ -387,8 +387,8 @@ li a:hover {
 }
 
 iframe {
-   width: max(400px);
-   height: max(300px);
+   min-width: 18%;
+   min-height: 32%;
    margin: 5em 5em 5em 5em;
    display: flex;
    justify-content: center;
